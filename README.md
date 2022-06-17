@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 [![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-shvetc)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/anton-shevtc/badges/small)](https://www.codewars.com/users/anton-shevtc) 
+[![codewars](https://www.codewars.com/users/Anton-Shvetc/badges/large)](https://www.codewars.com/users/Anton-Shvetc) 
+
