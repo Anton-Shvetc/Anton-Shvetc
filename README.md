@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![codewars](https://www.codewars.com/users/Anton-Shvetc/badges/large)](https://www.codewars.com/users/Anton-Shvetc) 
-[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-shvetc)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton-shvetc)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton-shvetc)](https://github.com/anton-shvetc/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Anton-Shvetc/badges/large)](https://www.codewars.com/users/Anton-Shvetc) 
 
 
 
