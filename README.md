@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I have been engaged in web development for more than three years. I have experience both in developing the client side of applications and on the server side, including database design. I like to think over the structure of projects, implement it, and see the result. In my free time, I play volleyball, go to lectures and conferences, and continue to study. I want to contribute to the company by developing intuitive user interfaces for websites and mobile applications using modern technologies.
+
+## Useful links
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/antonshvetc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
