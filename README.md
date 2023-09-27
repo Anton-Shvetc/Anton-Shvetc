@@ -4,6 +4,13 @@
   <a href="https://www.linkedin.com/in/antonshvetc/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://next-portfolio-new-steel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white&color=eb688c" alt="Website Badge"/>
+  </a>
+  <a href="https://t.me/antonshvetc">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+
 </div>
 
 <!--
